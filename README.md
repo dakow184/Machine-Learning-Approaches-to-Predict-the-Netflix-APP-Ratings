@@ -58,7 +58,7 @@ The project employs the **SEMMA** (Sample, Explore, Modify, Model, Assess) metho
 
 - Word cloud generated from review text highlighting common sentiments for all ratings for all time period.
 <p align="center">
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/e4bc8e5e-a0f2-4f65-bba7-3347badbe2b3" style="margin: 10px;">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/e4bc8e5e-a0f2-4f65-bba7-3347badbe2b3" style="margin: 10px;">
 </p>
 
 - Word clouds generated from review text highlighting common sentiments for low ratings only and for different time period.
