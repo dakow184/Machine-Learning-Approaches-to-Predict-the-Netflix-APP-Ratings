@@ -1,9 +1,5 @@
 # Machine Learning Approaches to Predict the Netflix APP Ratings
 
-Here’s a table of contents to include in your `README.md`:
-
----
-
 ## Table of Contents
 1. [Overview](#overview)
 2. [Dataset](#dataset)
