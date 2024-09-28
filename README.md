@@ -60,9 +60,9 @@ The project employs the **SEMMA** (Sample, Explore, Modify, Model, Assess) metho
 
 <p align="center">
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/e4bc8e5e-a0f2-4f65-bba7-3347badbe2b3" style="margin: 10px;">
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/059f1230-ef16-49cc-958d-8b1154517057" style="margin: 10px;">
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/473fb07e-e92a-49d1-94fb-0c6bf3a8937d" style="margin: 10px;">
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/57427e20-6b1f-48e2-a496-271951c89a88" style="margin: 10px;">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/059f1230-ef16-49cc-958d-8b1154517057" style="margin: 10px;">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/473fb07e-e92a-49d1-94fb-0c6bf3a8937d" style="margin: 10px;">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/57427e20-6b1f-48e2-a496-271951c89a88" style="margin: 10px;">
 </p>
 
 ## Business Insights
