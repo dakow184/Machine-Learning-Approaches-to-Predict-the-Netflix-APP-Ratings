@@ -53,14 +53,16 @@ The project employs the **SEMMA** (Sample, Explore, Modify, Model, Assess) metho
 ## Data Visualization
 - Bar charts of review distribution across years and ratings.
   ![image](https://github.com/user-attachments/assets/48400a60-c071-48f9-8525-a831fa44fed5)
+  
 ![image](https://github.com/user-attachments/assets/8744f4ab-c925-4ff4-961c-9922b67584c5)
 
 - Word clouds generated from review text highlighting common sentiments across different time periods.
 <img width="365" alt="image" src="https://github.com/user-attachments/assets/e4bc8e5e-a0f2-4f65-bba7-3347badbe2b3">
+
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/059f1230-ef16-49cc-958d-8b1154517057">
 <img width="283" alt="image" src="https://github.com/user-attachments/assets/473fb07e-e92a-49d1-94fb-0c6bf3a8937d">
 <img width="281" alt="image" src="https://github.com/user-attachments/assets/57427e20-6b1f-48e2-a496-271951c89a88">
-![image](https://github.com/user-attachments/assets/a08076b8-3aaf-4159-a107-aba924fdb409)
+
 
 
 ## Business Insights
