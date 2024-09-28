@@ -20,9 +20,6 @@
 8. [Limitations](#limitations)
 9. [Future Work](#future-work)
 
-
-This table of contents will help users navigate your `README.md` easily.
-
 ## Overview
 This project focuses on predicting Netflix user ratings from reviews posted on the Google Play Store, utilizing machine learning and natural language processing (NLP) techniques. The data spans from 2017 to 2023, capturing user sentiment before, during, and after the COVID-19 pandemic. The goal of the project is to analyze how users rate Netflix and identify key issues, enabling Netflix to enhance its services.
 
@@ -58,14 +55,39 @@ The project employs the **SEMMA** (Sample, Explore, Modify, Model, Assess) metho
 - Word clouds generated from review text highlighting common sentiments across different time periods.
 
 ## Business Insights
-- **Improvement Areas**: Version stability, subscription flexibility, content quality, and sensitivity to regional preferences.
-- **Recommendation**: Address device compatibility, update issues, and subscription options to improve user experience.
+### Improvement Areas:
+1. **Version Stability**: 
+   - Users reported frequent crashes after updates, indicating a need for improved testing and device compatibility.
+   
+2. **Subscription Flexibility**: 
+   - Limited subscription options led to dissatisfaction. Offering flexible combinations of features like ads, content selection, membership sharing, and tiered pricing could better cater to user preferences.
+   
+3. **Content Quality**:
+   - Users noted slow and outdated content updates. Delivering more frequent updates, especially in competitive regions, is key.
+   
+4. **Regional Sensitivity**: 
+   - Cultural inaccuracies, such as in Egyptian content, resulted in backlash. Tailoring content to regional norms and values is critical.
+
+### Recommendations:
+- **Device Compatibility**:
+   - Improve app testing across devices and consider lighter versions for older devices.
+   
+- **Subscription Plans**:
+   - Offer flexible plans (e.g., weekly or family options) to better meet user needs, especially in challenging economic times.
+   
+- **Content Strategy**:
+   - Focus on frequent content updates and partner with local creators to provide culturally relevant content.
+   
+- **Cultural Sensitivity**:
+   - Ensure content aligns with regional norms to avoid misrepresentation and backlash. Strengthen the content review process to address cultural sensitivities more effectively.
 
 ## Limitations
 - The analysis is limited to reviews from Google Play. Expanding data sources (e.g., Apple Store) could enhance reliability.
 - Slang and nuanced meanings in user comments may not be fully captured by current NLP methods.
 
 ## Future Work
-- Incorporating additional data sources.
-- Expanding the model to analyze reviews from other social media platforms like Facebook, Twitter, and Instagram.
+- Incorporating additional data sources (e.g., Apple Store reviews, official download URLs) to improve analysis reliability.
+- Expanding the model to analyze reviews from other social media platforms such as Facebook, Twitter, and Instagram.
+- Exploring deeper context in text meaning, especially within the framework of internet slang and evolving expressions.
+- Expanding the dictionary to capture nuanced meanings and improve sentiment analysis accuracy.
 
