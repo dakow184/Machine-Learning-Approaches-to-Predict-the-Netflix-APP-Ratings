@@ -56,15 +56,16 @@ The project employs the **SEMMA** (Sample, Explore, Modify, Model, Assess) metho
   
 ![image](https://github.com/user-attachments/assets/8744f4ab-c925-4ff4-961c-9922b67584c5)
 
-- Word clouds generated from review text highlighting common sentiments across different time periods.
-
+- Word cloud generated from review text highlighting common sentiments for all ratings for all time period.
 <p align="center">
   <img width="300" alt="image" src="https://github.com/user-attachments/assets/e4bc8e5e-a0f2-4f65-bba7-3347badbe2b3" style="margin: 10px;">
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/059f1230-ef16-49cc-958d-8b1154517057" style="margin: 10px;">
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/473fb07e-e92a-49d1-94fb-0c6bf3a8937d" style="margin: 10px;">
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/57427e20-6b1f-48e2-a496-271951c89a88" style="margin: 10px;">
 </p>
 
+- Word clouds generated from review text highlighting common sentiments for low ratings only and for different time period.
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/059f1230-ef16-49cc-958d-8b1154517057" style="margin: 10px;">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/473fb07e-e92a-49d1-94fb-0c6bf3a8937d" style="margin: 10px;">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/57427e20-6b1f-48e2-a496-271951c89a88" style="margin: 10px;">
+  
 ## Business Insights
 ### Improvement Areas:
 1. **Version Stability**: 
